@@ -1,6 +1,8 @@
 # STM32-CANBUS
 A custom PCB project based on STM32F302C6T6 microchip that can communicate with a car's CAN network.
 
+Full project file inc. drivers can be downloaded under the file name "STM32-CANBUS.zip".
+
 Software used:
 * EasyEDA
 * STM32CubeIDE
