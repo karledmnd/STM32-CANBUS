@@ -15,3 +15,9 @@ Hardware & tools used:
 * Soldering station
 * Hot plate
 * Misc. soldering items (paste, wick, etc.)
+
+**Specifications**
+CAN speed - 500Kb/s default, can be changed with little effort
+OLED screen for displaying information
+2 buttons for interaction with the display, 1 for MCU reset
+Programmed via SWD
